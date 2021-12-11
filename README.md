@@ -10,7 +10,7 @@ A python module for performing Rocklin Correction.
 Installing from source
 ----------------------
 
-from source. Clone the source from GitHub with::
+From source. Clone the source from GitHub with::
 
     git clone https://github.com/xiki-tempula/rocklinc.git
 
@@ -19,7 +19,7 @@ then do::
     cd rocklinc
     pip install .
 
-Uasge
+Usage
 -----
 To compute Rocklin correction. The following data is required.
 
